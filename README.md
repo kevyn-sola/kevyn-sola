@@ -8,7 +8,7 @@
 
 <h1>:vulcan_salute:Hello Everyone !!</h1> 
 
-:space_invader: I'm Kevyn SOLA and i'm a Web Developper.
+:space_invader: I'm Kevyn SOLA and i'm a Software Engineer.
 
 - 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,typescript,graphql,postgres,materialui" />
 
