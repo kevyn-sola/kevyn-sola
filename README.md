@@ -10,11 +10,11 @@
 
 :space_invader: I'm Kevyn SOLA and i'm a Software Engineer.
 
-- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,typescript,graphql,postgres,materialui" />
+- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,materialui" />
 
-- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=nest" />
+- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=graphql,mongodb,postgres" />
 
-- 💻 I work with :<br><br> <img src="https://skillicons.dev/icons?i=php,angular,mysql,bootstrap,gitlab,linux" />
+- 💻 I work with :<br><br> <img src="https://skillicons.dev/icons?i=php,angular,typescript,mysql,bootstrap,gitlab,linux" />
 
 If you want to follow my career got to this link >>>
 
@@ -25,11 +25,14 @@ If you want to follow my career got to this link >>>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
-<div>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,webpack,symfony,sass,vscode,firebase" />
-  </a>
-</div>
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=figma,vscode,github" />
+    
+<h3>Lib/Packages/Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=git,firebase,webpack,symfony,sass" />
+    
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql" />
 
 <h2>:fire: My Stats :</h2>
 <div class="links" align="center">
