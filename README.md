@@ -10,9 +10,9 @@
 
 :space_invader: I'm Kevyn SOLA and i'm a Software Engineer.
 
-- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,materialui" />
+- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=java,spring,docker,nestjs,angular,postgres" />
 
-- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=graphql,mongodb,postgres" />
+- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=java,docker,postgres" />
 
 - 💻 I work with :<br><br> <img src="https://skillicons.dev/icons?i=php,angular,typescript,mysql,bootstrap,gitlab,linux" />
 
