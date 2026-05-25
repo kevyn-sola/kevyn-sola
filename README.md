@@ -3,7 +3,7 @@
 </div>
 
 <div class="tracker" align="center">
-  <img src="https://komarev.com/ghpvc/?username=planger45" alt="tracker view">
+  <img src="https://komarev.com/ghpvc/?username=kevyn-sola" alt="tracker view">
 </div>
 
 <h1>:vulcan_salute:Hello Everyone !!</h1> 
@@ -26,7 +26,7 @@ If you want to follow my career got to this link >>>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=figma,vscode,github" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,github,gitlab" />
     
 <h3>Lib/Packages/Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=git,firebase,webpack,symfony,sass" />
