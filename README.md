@@ -30,9 +30,6 @@ If you want to follow my career got to this link >>>
     
 <h3>Lib/Packages/Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=git,firebase,webpack,symfony,sass" />
-    
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,mysql" />
 
 <h2>:fire: My Stats :</h2>
 <div class="links" align="center">
